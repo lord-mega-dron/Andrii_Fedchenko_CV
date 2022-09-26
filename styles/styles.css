@@ -104,6 +104,10 @@ body{
 
 /* work styles */
 
+.work{
+    margin-bottom: 50px;
+}
+
 .work_position{
     font-style: normal;
     font-weight: 700;
